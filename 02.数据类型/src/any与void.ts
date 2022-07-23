@@ -19,6 +19,6 @@ let value: void
 
 // void类型仅可赋值为 undefined 和 null
 value = undefined
-// value = null
+value = null
 
 console.log(rand)
